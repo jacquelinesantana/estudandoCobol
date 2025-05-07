@@ -32,6 +32,7 @@
       *>       ATRIBUIR VALOR A UMA VARIÁVEL N1
             MOVE 15 TO N2
             COMPUTE RESUL = N1 + N2
+      *>       calculos devem estar com o compute
             MOVE "JACQUELINE" TO NOME
             DISPLAY "VALOR DA VARIAVEL EH: " N1
 
