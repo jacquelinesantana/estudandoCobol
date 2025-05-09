@@ -10,4 +10,10 @@ Linguagem criada em 1959 - 1960 pela IBM, inicialmente atendia ao paradigma estr
 
 As duas ferramentas funcionam para o Cobol inicialmente eu escolhi usar o OpenCobol para conhecer a ferramenta também. Dentro do VS Code você pode utilizar extensões para te ajudar no desenvolvimento com essa linguagem.
 
+## Ambiente mais profissional
+
+Topaz, mainframe express - ferramentas pagas
+
+TN 3270 via hercules (um emulador de mainframe) ou via tk4
+
 
