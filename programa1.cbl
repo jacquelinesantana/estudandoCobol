@@ -26,8 +26,14 @@
            05  CPF           PIC 9(11).
 
 
+
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
+            MOVE "Jacqueline" TO NOMECLIENTE.
+            DISPLAY NOMECLIENTE
+            MOVE 1234567890 TO CPF.
+            DISPLAY DADOS-CLIENTE
+
             MOVE 5 TO N1
       *>       ATRIBUIR VALOR A UMA VARIÁVEL N1
             MOVE 15 TO N2
